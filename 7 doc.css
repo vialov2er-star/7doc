@@ -1,0 +1,224 @@
+.rosybrown{
+		background-color: rosybrown;
+		position: absolute;
+		width: calc(100% / 3);
+		left: 0px;
+		height: 30%;
+		bottom: 70%;
+}
+
+.lavenderblush{
+		background-color: lavenderblush;
+		position: absolute;
+		width: calc(100% / 3);
+		left: 0px;
+		height: 70%;
+		bottom: 0px;
+}
+
+.lightpink{
+		background-color: lightpink;
+		position: absolute;
+		width: calc(100% / 3);
+		left: calc(100% / 3);
+		height: 70%;
+		top: 0px;
+}
+
+.palevioletred{
+		background-color: palevioletred;
+		position: absolute;
+		width: calc(100% / 3);
+		left: calc(100% / 3);
+		height: 30%;
+		bottom: 0px;
+}
+
+.salmon{
+		background-color: salmon;
+		position: absolute;
+		width: calc(100% / 3);
+		right: 0px;
+		height: 30%;
+		top: 0px;
+}
+
+.pink{
+		background-color: pink;
+		position: absolute;
+		width: calc(100% / 3);
+		right: 0px;
+		height: 70%;
+		bottom: 0px;
+}
+
+@media screen and (max-width: 1300px) {
+
+	.rosybrown{
+		background-color: peachpuff;
+		position: absolute;
+		width: 35%;
+		left: 0px;
+		height: 55%;
+		top: 0px;
+	}
+
+	.lavenderblush{
+		background-color: lightsalmon;
+		position: absolute;
+		width: 35%;
+		left: 0px;
+		height: 45%;
+		bottom: 0px;
+	}
+
+	.lightpink{
+		background-color: coral;
+		position: absolute;
+		width: 30%;
+		left: 35%;
+		height: 45%;
+		top: 0px;
+	}
+
+	.palevioletred{
+		background-color: darkorange;
+		position: absolute;
+		width: 30%;
+		left: 35%;
+		height: 55%;
+		bottom: 0px;
+	}
+
+	.salmon{
+		background-color: orangered;
+		position: absolute;
+		width: 35%;
+		right: 0px;
+		height: 55%;
+		top: 0px;
+	}
+
+	.pink{
+		background-color: tomato;
+		position: absolute;
+		width: 35%;
+		right: 0px;
+		height: 45%;
+		bottom: 0px;
+	}
+}
+
+@media screen and (max-width: 950px) {
+
+	.rosybrown{
+		background-color: lightsteelblue;
+		position: absolute;
+		width: 40%;
+		left: 0px;
+		height: 60%;
+		top: 0px;
+	}
+
+	.lavenderblush{
+		background-color: royalblue;
+		position: absolute;
+		width: 40%;
+		left: 0px;
+		height: 40%;
+		bottom: 0px;
+	}
+
+	.lightpink{
+		background-color: skyblue;
+		position: absolute;
+		width: 20%;
+		left: 40%;
+		height: 40%;
+		top: 0px;
+	}
+
+	.palevioletred{
+		background-color: dodgerblue;
+		position: absolute;
+		width: 20%;
+		left: 40%;
+		height: 60%;
+		bottom: 0px;
+	}
+
+	.salmon{
+		background-color: cornflowerblue;
+		position: absolute;
+		width: 40%;
+		right: 0px;
+		height: 60%;
+		top: 0px;
+	}
+
+	.pink{
+		background-color: deepskyblue;
+		position: absolute;
+		width: 40%;
+		right: 0px;
+		height: 40%;
+		bottom: 0px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+
+	.rosybrown{
+		background-color: seagreen;
+		position: absolute;
+		width: 20%;
+		left: 0px;
+		height: 75%;
+		top: 0px;
+	}
+
+	.lavenderblush{
+		background-color: mediumaquamarine;
+		position: absolute;
+		width: 20%;
+		left: 0px;
+		height: 25%;
+		bottom: 0px;
+	}
+
+	.lightpink{
+		background-color: mediumseagreen;
+		position: absolute;
+		width: 60%;
+		left: 20%;
+		height: 25%;
+		top: 0px;
+	}
+
+	.palevioletred{
+		background-color: springgreen;
+		position: absolute;
+		width: 60%;
+		left: 20%;
+		height: 75%;
+		bottom: 0px;
+	}
+
+	.salmon{
+		background-color: limegreen;
+		position: absolute;
+		width: 20%;
+		right: 0px;
+		height: 75%;
+		top: 0px;
+	}
+
+	.pink{
+		background-color: forestgreen;
+		position: absolute;
+		width: 20%;
+		right: 0px;
+		height: 25%;
+		bottom: 0px;
+	}
+}
